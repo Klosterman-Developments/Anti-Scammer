@@ -1,0 +1,12 @@
+C:\Users\Noah\Documents\Anti Scammer\Anti-Scammer-v.1\Anti Scammer\Anti Scammer\bin\Debug\Anti Scammer.exe.config
+C:\Users\Noah\Documents\Anti Scammer\Anti-Scammer-v.1\Anti Scammer\Anti Scammer\bin\Debug\Anti Scammer.exe
+C:\Users\Noah\Documents\Anti Scammer\Anti-Scammer-v.1\Anti Scammer\Anti Scammer\bin\Debug\Anti Scammer.pdb
+C:\Users\Noah\Documents\Anti Scammer\Anti-Scammer-v.1\Anti Scammer\Anti Scammer\bin\Debug\Anti Scammer.xml
+C:\Users\Noah\Documents\Anti Scammer\Anti-Scammer-v.1\Anti Scammer\Anti Scammer\bin\Debug\MaterialSkin.dll
+C:\Users\Noah\Documents\Anti Scammer\Anti-Scammer-v.1\Anti Scammer\Anti Scammer\obj\Debug\Anti Scammer.vbprojResolveAssemblyReference.cache
+C:\Users\Noah\Documents\Anti Scammer\Anti-Scammer-v.1\Anti Scammer\Anti Scammer\obj\Debug\Anti_Scammer.Form1.resources
+C:\Users\Noah\Documents\Anti Scammer\Anti-Scammer-v.1\Anti Scammer\Anti Scammer\obj\Debug\Anti_Scammer.Resources.resources
+C:\Users\Noah\Documents\Anti Scammer\Anti-Scammer-v.1\Anti Scammer\Anti Scammer\obj\Debug\Anti Scammer.vbproj.GenerateResource.Cache
+C:\Users\Noah\Documents\Anti Scammer\Anti-Scammer-v.1\Anti Scammer\Anti Scammer\obj\Debug\Anti Scammer.exe
+C:\Users\Noah\Documents\Anti Scammer\Anti-Scammer-v.1\Anti Scammer\Anti Scammer\obj\Debug\Anti Scammer.xml
+C:\Users\Noah\Documents\Anti Scammer\Anti-Scammer-v.1\Anti Scammer\Anti Scammer\obj\Debug\Anti Scammer.pdb
